@@ -5,8 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/DAT-PACKAGE/db"
-	"github.com/DAT-PACKAGE/models"
+	"sandeepdevireddy/dat-package/db"
+	"sandeepdevireddy/dat-package/models"
+
 	"github.com/gin-gonic/gin"
 )
 

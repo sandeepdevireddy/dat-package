@@ -1,9 +1,11 @@
 package main
 
 import (
+	"sandeepdevireddy/dat-package/db"
+
+	"sandeepdevireddy/dat-package/routes"
+
 	"github.com/gin-gonic/gin"
-	"github.com/package/db"
-	"github.com/package/routes"
 )
 
 func main() {

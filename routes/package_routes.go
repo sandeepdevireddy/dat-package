@@ -4,8 +4,9 @@ import (
 	"log"
 	"time"
 
+	"sandeepdevireddy/dat-package/controllers"
+
 	"github.com/gin-gonic/gin"
-	"github.com/package/controllers"
 )
 
 func Interceptor() gin.HandlerFunc {
